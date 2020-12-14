@@ -1,0 +1,50 @@
+
+.home swiper {
+	width: 750rpx;
+	height: 380rpx;
+}
+.home swiper image {
+	height: 100%;
+	width: 100%;
+}
+.nav {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.nav .nav_item {
+	width: 25%;
+	text-align: center;
+}
+.nav .nav_item view {
+	margin: 10px auto;
+	width: 120rpx;
+	height: 120rpx;
+	background-color: #b50e03;
+	-webkit-border-radius: 60rpx;
+	        border-radius: 60rpx;
+	line-height: 120rpx;
+	color: #FFFFFF;
+	font-size: 50rpx;
+}
+.nav .nav_item .icon-tupian {
+	font-size: 45rpx;
+}
+.nav .nav_item text {
+	font-size: 30rpx;
+}
+.hot_goods {
+	background: #eee;
+	overflow: hidden;
+	margin-top: 10px;
+}
+.hot_goods .tit {
+	height: 50px;
+	line-height: 50px;
+	color: #b50e03;
+	text-align: center;
+	letter-spacing: 20px;
+	background-color: #fff;
+	margin: 7rpx 0;
+}
+

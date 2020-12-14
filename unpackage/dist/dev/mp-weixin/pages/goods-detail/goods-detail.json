@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "彗星商城",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-goods-nav": "/components/uni-goods-nav/uni-goods-nav"
+  }
+}
